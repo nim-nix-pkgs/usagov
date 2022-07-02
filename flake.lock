@@ -69,11 +69,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1656298180,
-        "narHash": "sha256-s0DcpJv4NDjj5m1TDO9bqprbMi3DYzodFAdKG92QnsQ=",
+        "lastModified": 1656301333,
+        "narHash": "sha256-AEe5iYVOGrXdn8E4c7xx/97QBMxDZmWRfjm+v8zBGBI=",
         "owner": "nim-nix-pkgs",
         "repo": "usagov",
-        "rev": "f3a75c15dd511f79043f06881e5d5785e87618de",
+        "rev": "faf0392e140521dad523301ba28ae6fad6308726",
         "type": "github"
       },
       "original": {
