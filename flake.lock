@@ -23,11 +23,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1667110639,
-        "narHash": "sha256-4FbPESZ5LbqQxkJJJBAfk/zKgF9h/4kyUwjjpJwYlbc=",
+        "lastModified": 1667199707,
+        "narHash": "sha256-I2Js3Y7gUyVSEXPULHlBoRek4Lh85vnevdS6mdvDNLI=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "f38a1f04d1bec1feb61fd101a0539ae2002a7087",
+        "rev": "ced197be72099edcfa68ebed8b87af7b04851f45",
         "type": "github"
       },
       "original": {
@@ -71,11 +71,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1662254914,
-        "narHash": "sha256-kqFsQU31MPaJO3hO5X5uNNMvF0w2wJEvqbBpOreNlLU=",
+        "lastModified": 1667322770,
+        "narHash": "sha256-IsHK53bNzs+tbmj9CVkO2EKKYYsHXD5c1Z3raGmMdXE=",
         "owner": "nim-nix-pkgs",
         "repo": "usagov",
-        "rev": "0855d5aedc962c85f1ed3147d33e603545114aa7",
+        "rev": "bd61edb5a64828dd2bbf91be3f0fcf3bd394c91c",
         "type": "github"
       },
       "original": {
